@@ -10,7 +10,7 @@
 .hero{
     height: 100vh;
     width: 100%;
-    background-image:url(./image/i1.JPG)  ;
+    background-image:url(image/i1.JPG)  ;
     background-size: cover;
     background-position: center;
 }
